@@ -1,14 +1,12 @@
 ---
-layout: project
-title: Introduction & Background
+layout: page
+title: "Introduction"
 description: "Introduction to our FYP"
-"header-img": "img/home-bg.jpg"
-category: project1
-published: true
+header-img: "img/home-bg.jpg"
 ---
 
 
-## Introduction & Background:
+### Introduction & Background:
 
 With power of face recognition, many previous unimaginable tasks become tangible and achievable.
 
