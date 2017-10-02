@@ -13,7 +13,7 @@ However, cost, in both human force and pecuniary investment, for creating large-
 LFW is an commonly accessible face dataset but it only contains 10k+ pictures, in which only 1680 people contain two or more distinct pictures.
 
 
-![](https://hkuface.github.io//img/LFW_snapchot.png)
+![](https://hkuface.github.io//img/LFW_snapchot.png = 200x)
 *figure 1 snapshot from Labeled Faces in the Wild(LFW) dataset*
 
 ### Existing Work 
