@@ -18,13 +18,29 @@ Dataset is essential for training classifiers either in convolutional neural net
 
 
 Metric learning is the task of learning a distance function over objects and is superior for solving open-set face recognition problem. Metric learning model firstly map the input to a general feature $h$ which theoretically lies in a hyperspace manifold[1]. Then training a discriminator $D$ to accomplish the task 
-$$
-D(h_i,h_j) = 
-		0, if\ h_i,\ h_j\ do\ not\ belong\ to\ the\ same\ identity
-		1, if\ h_i,\ h_j\ belong\ to\ the\ same\ identity
-$$
+$
+\begin{align}
+D(h_i,h_j) &=
+\begin{cases} 
+0\ ;if\ h_i,\ h_j\ do\ not\ belong\ to\ the\ same\ identity\\
+1\ ;if\ h_i,\ h_j\ belong\ to\ the\ same\ identity
+\end{cases}
+\end{align}
+$
 
 In our project, we will use the newly-developed or existed dataset to train existed metric learning model and a newly-designed model to achieve satisfying or even state-of-the-art performance.
+
+
+$
+\begin{align}
+\phi(z) &= \frac{1}{1 + e^{-z}} \\
+y &=
+\begin{cases}
+1 \; \phi(z) \geq 0.5 \\
+0 \; \phi(z) < 0.5
+\end{cases}
+\end{align}
+$
 
 
 
