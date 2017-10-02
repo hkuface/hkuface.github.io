@@ -2,7 +2,7 @@
 layout: page
 title: "Introduction"
 description: "Introduction to our FYP"
-header-img: "img/home-bg.jpg"
+header-img: "img/multi-person_Face++.png"
 ---
 
 ### Introduction & Background
