@@ -23,11 +23,11 @@ Metric learning is the task of learning a distance function over objects and is 
 $$
 \begin{center}
 D(h_i,h_j) =
-\begin{cases} 
+
 0 \; & \text{if $h_i$, $h_j$ do not belong to the same identity} \\
 1 \; & \text{if $h_i$, $h_j$ belong to the same identity}
 \end{cases}
-\end{center}
+
 $$
 
 In our project, we will use the newly-developed or existed dataset to train existed metric learning model and a newly-designed model to achieve satisfying or even state-of-the-art performance.
