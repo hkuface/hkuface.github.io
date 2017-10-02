@@ -2,7 +2,7 @@
 layout: page
 title: "Objectives"
 description: "Objectives of our FYP"
-header-img: "img/deep_learning.jpg"
+header-img: "img/Image_Selection/deep_learning.jpg"
 ---
 
 
