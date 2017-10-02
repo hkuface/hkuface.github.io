@@ -2,6 +2,7 @@
 title: HKU-FACE
 description: "A Large Scale Dataset for Deep Face Recognition "
 url: "https://hkuface.github.io"
+pages: ["home", "introduction", "objectives", "members"]
 
 
 
