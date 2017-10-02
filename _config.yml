@@ -1,8 +1,7 @@
 # Site settings
 title: HKU-FACE
 description: "A Large Scale Dataset for Deep Face Recognition "
-url: "https://hkuface.github.io"
-pages: ["home", "introduction", "objectives", "members"]
+url: "https://hkuface.github.io"g
 
 
 
@@ -34,7 +33,6 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 
 defaults:
-  -
     scope:
       path: "projects"
       type: "pages"
