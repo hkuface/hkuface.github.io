@@ -1,12 +1,13 @@
+<script type="text/javascript"
+   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js">
+</script>
 ---
 layout: page
 title: "Objectives"
 description: "Objectives of our FYP"
 header-img: "img/home-bg.jpg"
 ---
-<script type="text/javascript"
-   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js">
-</script>
+
 
 ### Automatic filtering
 
