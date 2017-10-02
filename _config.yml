@@ -3,9 +3,6 @@ title: HKU-FACE
 description: "A Large Scale Dataset for Deep Face Recognition"
 url: "https://hkuface.github.io"
 
-
-
-
 # Secondary Parameters
 baseurl: ""
 header-img: img/home-bg.jpg
