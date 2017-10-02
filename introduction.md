@@ -12,7 +12,7 @@ With power of face recognition, many previous unimaginable tasks become tangible
 However, cost, in both human force and pecuniary investment, for creating large-scale and pure face dataset is still very high. Only big companies and institutions have enough support to construct such dataset as mentioned above and some are not open-source, which restricts the development for both industry and academic research. As shown in fighure 1,
 LFW is an commonly accessible face dataset but it only contains 10k+ pictures, in which only 1680 people contain two or more distinct pictures.
 
-<img src="https://hkuface.github.io//img/LFW_snapchot.png" alt="Drawing" style="width: 200px;"/>
+<img src="https://hkuface.github.io//img/LFW_snapchot.png" alt="Drawing" style="width: 800px;"/>
 *figure 1 snapshot from Labeled Faces in the Wild(LFW) dataset*
 
 ### Existing Work 
