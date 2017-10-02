@@ -35,7 +35,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/Image_Selection/multi-person_Face++.png"
+      header-img: "img//Image_Selection/multi-person_Face++.png"
 
 # Prose Settings
 prose:
