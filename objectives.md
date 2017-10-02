@@ -23,13 +23,24 @@ $
 \begin{align}
 D(h_i,h_j) &=
 \begin{cases} 
-0\ ;if\ h_i,\ h_j\ do\ not\ belong\ to\ the\ same\ identity\\
-1\ ;if\ h_i,\ h_j\ belong\ to\ the\ same\ identity
+0 \; if\ h_i,\ h_j\ do\ not\ belong\ to\ the\ same\ identity \\
+1 \; if\ h_i,\ h_j\ belong\ to\ the\ same\ identity
 \end{cases}
 \end{align}
 $
 
 In our project, we will use the newly-developed or existed dataset to train existed metric learning model and a newly-designed model to achieve satisfying or even state-of-the-art performance.
+
+$
+\begin{align}
+\phi(z) &= \frac{1}{1 + e^{-z}} \\
+y &=
+\begin{cases}
+1 \; \phi(z) \geq 0.5 \\
+0 \; \phi(z) < 0.5
+\end{cases}
+\end{align}
+$
 
 
 ### Reference
