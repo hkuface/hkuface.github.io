@@ -21,8 +21,8 @@ Metric learning is the task of learning a distance function over objects and is 
 $$
 \begin{center}
 D(h_i,h_j) = 
-		0, & \text{if h_i, h_j do not belong to the same identity}\\
-		1, & \text{if h_i, h_j belong to the same identity}
+		0, if\ h_i,\ h_j\ do\ not\ belong\ to\ the\ same\ identity
+		1, if\ h_i,\ h_j\ belong\ to\ the\ same\ identity
 \end{center}
 $$
 
