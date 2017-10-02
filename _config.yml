@@ -29,6 +29,16 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Jekyll Settings
 
+
+# 
+# Conversion
+markdown:    jekyll-pandoc
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
+
+
 defaults:
   -
     scope:
