@@ -1,10 +1,10 @@
 # Members
-- name: Yizhou Yu
-  role: Supervisor, Professor in HKU CS Department
-  img: http://i.cs.hku.hk/~yzyu/Yu-hku-cr.png
-  url: http://i.cs.hku.hk/~yzyu/
-  bio: "Yizhou Yu is currently a full professor in the Department of Computer Science at the University of Hong Kong, and an adjunct professor in the Department of Computer Science at University of Illinois, Urbana-Champaign (UIUC). He was first a tenure-track and then a tenured professor at UIUC for more than 10 years. He has also collaborated with eBay Research, Google Brain and Microsoft Research in the past. He received his PhD degree in computer science from the computer vision group at <a href="http://www.berkeley.edu">University of California, Berkeley</a>. He also holds a MS degree in applied mathematics and a BE degree in computer science and engineering from <a href="http://www.zju.edu.cn/english">Zhejiang University</a>."
-  visible: true
+# - name: Yizhou Yu
+#   role: Supervisor, Professor in HKU CS Department
+#   img: http://i.cs.hku.hk/~yzyu/Yu-hku-cr.png
+#   url: http://i.cs.hku.hk/~yzyu/
+#   bio: "Yizhou Yu is currently a full professor in the Department of Computer Science at the University of Hong Kong, and an adjunct professor in the Department of Computer Science at University of Illinois, Urbana-Champaign (UIUC). He was first a tenure-track and then a tenured professor at UIUC for more than 10 years. He has also collaborated with eBay Research, Google Brain and Microsoft Research in the past. He received his PhD degree in computer science from the computer vision group at <a href="http://www.berkeley.edu">University of California, Berkeley</a>. He also holds a MS degree in applied mathematics and a BE degree in computer science and engineering from <a href="http://www.zju.edu.cn/english">Zhejiang University</a>."
+#   visible: true
 
 - name: Haicheng Wang
   role: Team Memeber  
