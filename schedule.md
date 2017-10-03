@@ -20,7 +20,7 @@ Width of text block, two-column mode:
 \smallskip
 \begin{tabular}{@{} cccc @{}}
 \toprule
-Time & Description & \\
+Date & milestone to reach & \\
 \midrule
 September, 2017 & 1) Paper reading and techniques training (through whole month) (2) Preparation for the analysis for filtering models, benchmark design and implementation. (late September) \\
 October  & (1) Feature extraction of whole dataset (first half in October). (2) Models evaluation and first filtering (second half in October) \\ 
