@@ -1,13 +1,18 @@
 # Members
 
-- name: WANG Haicheng
-  role: Team Memeber
+- name: Yizhou Yu
+  role: Supervisor, Professor in HKU CS Department
+  img: http://i.cs.hku.hk/~yzyu/Yu-hku-cr.png
+  visible: true
+
+- name: Haicheng Wang
+  role: Team Memeber, Final Year Student in HKU
   img: https://avatars3.githubusercontent.com/u/14937480?v=4&s=400
   github: whcacademy
   visible: true
    
-- name: Li Haoyu
-  role: Team Memeber
+- name: Haoyu Li
+  role: Team Memeber, Final Year Student in HKU
   img: https://avatars2.githubusercontent.com/u/24387580?v=4&s=400
   github: HAOYU-LI
   visible: true
