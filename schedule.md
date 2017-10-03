@@ -8,15 +8,15 @@ header-img: "img/Image_Selection/dp_2.jpg"
 
 #### September, 2017
 
-	(1) Paper reading and techniques training (through whole month)
+	(1) Paper reading and techniques training (through whole month).
 
-    (2) Preparation for the analysis for filtering models, benchmark design and implementation. (late September) 
+    (2) Preparation for the analysis for filtering models, benchmark design and implementation (late September).
 
 #### October
 
 	(1) Feature extraction of whole dataset (first half in October).
 
-	(2) Models evaluation and first filtering (second half in October) 
+	(2) Models evaluation and first filtering (second half in October). 
 
 #### November
 
@@ -29,13 +29,13 @@ header-img: "img/Image_Selection/dp_2.jpg"
 	(1) One more iteration of filtering and final evaluation of filtering 
 	process.
 
-	(2) Interim report 
+	(2) Interim report. 
 
 #### January, 2018
 
 	(1) Learning and designing new metric learning algorithm.
 
-	(2) Wrapping up and submission for the interim 
+	(2) Wrapping up and submission for the interim. 
 
 #### February
 
