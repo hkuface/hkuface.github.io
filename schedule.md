@@ -12,13 +12,13 @@ header-img: "img/Image_Selection/dp_2.jpg"
 
     (2) Preparation for the analysis for filtering models, benchmark design and implementation. (late September) 
 
-#### October, 2017
+#### October
 
 	(1) Feature extraction of whole dataset (first half in October).
 
 	(2) Models evaluation and first filtering (second half in October) 
 
-#### November, 2017
+#### November
 
 	(1) Evaluation of the first filtering and design for second filtering.
 
