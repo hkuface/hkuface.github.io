@@ -1,5 +1,4 @@
 # Members
-
 - name: Yizhou Yu
   role: Supervisor, Professor in HKU CS Department
   img: http://i.cs.hku.hk/~yzyu/Yu-hku-cr.png
@@ -8,7 +7,7 @@
   visible: true
 
 - name: Haicheng Wang
-  role: Team Memeber
+  role: Team Memeber  
   img: https://avatars3.githubusercontent.com/u/14937480?v=4&s=400
   github: whcacademy
   bio: "Haicheng Wang is purchasing his bachelor degree as a final year student in <a href="http://www.cs.hku.hk/">HKU CS Department</a>. He kicked out his research career from Jan. 2017 and his currrent research focus is computer vision with machine learning."
