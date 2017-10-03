@@ -2,7 +2,7 @@
 layout: page
 title: "Schedule"
 description: "Schedule of our FYP"
-header-img: "img/Image_Selection/Black_White_Faces.jpg"
+header-img: "img/Image_Selection/object_recognition.jpg"
 
 ---
 
@@ -17,7 +17,7 @@ Width of text block, two-column mode:
 \hrule
 \bigskip
 
-\bigskip
+\smallskip
 \begin{tabular}{@{} cccc @{}}
 \toprule
 Date & milestone to reach & \\
