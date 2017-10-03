@@ -2,7 +2,7 @@
 layout: page
 title: "Schedule"
 description: "Schedule of our FYP"
-header-img: "img/Image_Selection/dp2.jpg"
+header-img: "img/Image_Selection/dp_2.jpg"
 
 ---
 
