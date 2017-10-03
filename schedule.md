@@ -17,7 +17,6 @@ Width of text block, two-column mode:
 \hrule
 \bigskip
 
-\smallskip
 \begin{tabular}{@{} cccc @{}}
 \toprule
 Date & milestone to reach & \\
