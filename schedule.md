@@ -13,11 +13,10 @@ $$
 \usepackage{multirow,booktabs}
 \setlength\parindent{0pt}
 \begin{document}
-Width of text block, two-column mode:
 \hrule
 \bigskip
 
-\bigskip
+
 
 \smallskip
 \begin{tabular}{@{} cccc @{}}
